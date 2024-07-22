@@ -1,4 +1,4 @@
-# KnightLore
+# Knight Lore
 
 For the Acorn Electron
 
