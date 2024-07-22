@@ -11,5 +11,6 @@ Shift-Break to load.
 CHAIN"" to load
 
 ![Electron KnightLore](https://github.com/Snuggsy187/Electron-KnightLore/raw/main/png/1.png)
+![Electron KnightLore](https://github.com/Snuggsy187/Electron-KnightLore/raw/main/png/2.png)
 
 
