@@ -8,6 +8,6 @@ Note this is a pre-release work in progress version with some elements still to 
 
 [Download Tape Image version 0.01 !](https://github.com/Snuggsy187/Electron-KnightLore/raw/main/Releases/KnightLore-E.uef)
 
-![Electron KnightLore](https://github.com/Snuggsy187/Electron-KnightLore/tree/main/png/1.png)
+![Electron KnightLore](https://github.com/Snuggsy187/Electron-KnightLore/raw/main/png/1.png)
 
 
